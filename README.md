@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=ydjwls&show_icons=true&hide_border=true)]
 (https://github.com/shiplest)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username='ydjwls'&layout=compact&custom_title=My&nbsp;Language&nbsp;)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ydjwls)](https://github.com/anuraghazra/github-readme-stats)
